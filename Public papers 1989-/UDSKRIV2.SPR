@@ -1,0 +1,16 @@
+@style(fill no,                 leftmargin 1 cm,
+       BottomMargin 1 inch,     Font Times,
+       TopMargin 1 inch,        Spacing 1,
+       Spread 1.0,              Size 9 points,
+       headerspacing 1 picas,   footerspacing 1 picas,
+       widowprevent 3,          leftindent 0 picas,
+       rightindent 0 picas,     linelength 19 cm)
+R 65,J,T 5
+@define(ding, font dingbats)
+@size[15 points]
+@BOX[ChristenFihl, Jellingvej6,3650ùlstykke@ding'%'42175273,DAY, t="%d"-MONTH,t="%d"-19YEAR, t="%d"]
+@ends
+
+@begin[COLUMNS3, GUTTER = .7 cm]
+@include[\pcw\serkom.spr]
+@end[COLUMNS3]
