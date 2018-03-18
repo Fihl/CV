@@ -15,4 +15,11 @@ In total, about 30 years at IBS (2017)
 
 Private: Electronics, ham radio oz1aab, scout, …
 
-Complete CV in file above
+* Uddannet Civ. Ing. Elektro i 1982. 
+* Ansat hos IBS 1982, siden medejer. 
+* Har i en periode arbejdet med Turbo Pascal hos Borland. 
+* Oprindelig hardware interesseret men hurtigt lokket med på IT bølgen. 
+* Software interessen er tekniske detaljer, bit-nørkleri, og standard protokoller. 
+* Udvikler hardware til interGATE flådestyring og interfacer til SINE radioer.
+
+Complete CV in file above https://github.com/Fihl/CV/CV.md
