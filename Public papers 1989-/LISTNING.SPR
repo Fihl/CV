@@ -1,16 +1,0 @@
-R 71,T 5
-@style(justify no,
-       fill no,                 leftmargin 4 cm,
-       BottomMargin 1 picas,    Font Palatino,
-       TopMargin 1 inch,        Spacing 1,
-       Spread .6,               Size 10 points,
-       headerspacing 1 picas,   footerspacing 1 picas,
-       widowprevent on,         leftindent 0 picas,
-       rightindent 0 picas,     
-       linelength 8.5 cm)
-@define(asprogramb, 
-	font=Courier.Bold Times, AfterEntry "@tabset()", justify no, 
-	fill no, spread .7, leadingspaces kept, blanklines kept,
-     size 6 point)
-@tct('@' '@@')
-@ASPROGRAMB[@include(stk1.pas)]

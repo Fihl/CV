@@ -1,58 +1,0 @@
-R 65,T 4 19 30 40 50
-@style[size 10 point, leftindent 1 inch, spread .60]
-FONT CHANCERY SIZE 1 cm
-PC World Artikler
-ENDS ENDF
-
-SWEEP, dirsearch tt6 p27+p74
-  Vis alle med A+
-  Sum af fil st›rrelseetc
-
-MOVE =Flyt filer
-
-^L f‘lde. ^L => skip page
-
-EXTMEM, 720KB dos memory
-
-Segmenter og stak
-
-LYD
-	1 bit
-	4 bit, stereo
-
-WSSort
-	+name-file
-	-name-file	xYYYYYY, x=- => skip. x=! => warning
-
-(BootPart)
-
-Devicedriver ‘›†’
-
-TM Multitask
-
-Speedup timer til 1000 gange/sec (evt + linje tegning)
-
-Print spooler control tt4 p41
-
-LongJmp tt5 p27
-
-BCD + trig
-
-Seriel
-
-Defkey
-
-PostScript
-> _
-
-13 Turbo stak forbrug
-
-14 Dosfilter	<fil >fil kommandoer
-
-2 Date(): String + TT1 p68, LongInt:=Date
-
-3 Filmotor
-
-4 Format, og hvad det ikke er
-
-Christen Fihl
