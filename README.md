@@ -22,4 +22,4 @@ Private: Electronics, ham radio oz1aab, scout, …
 * Software interessen er tekniske detaljer, bit-nørkleri, og standard protokoller. 
 * Udvikler hardware til interGATE flådestyring og interfacer til SINE radioer.
 
-Complete CV in file above https://github.com/Fihl/CV/CV.md
+Complete CV in file above https://github.com/Fihl/CV/blob/master/CV.md
