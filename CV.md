@@ -71,4 +71,4 @@ Generelt har jeg været blandet ind i meget af det opremsede her: http://www.sec
     Christen Fihl
     Jellingvej 6
     3650 Ølstykke
-    http://Christen.fihl.net
+    http://www.fihl.net
