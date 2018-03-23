@@ -68,7 +68,7 @@ Year | Commercial | Private, own company
 
 Generelt har jeg været blandet ind i meget af det opremsede her: http://www.securityworldhotel.com/dk/Leverandorer/innovative-business-software-as-ibs
 
-    Christen Fihl
-    Jellingvej 6
-    3650 Ølstykke
-    http://www.fihl.net
+*  Christen Fihl
+*  Jellingvej 6
+*  3650 Ølstykke
+*  http://www.fihl.net
