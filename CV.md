@@ -59,14 +59,16 @@ Year | Commercial | Private, own company
  | Once again member of board of Innovative Business Software A/S
 2014 | Got a student for 5 month, doing a new smart hardware thing, something with elderly care,...
  | Today been at IBS for about 27 years
-2015..16 | ost hardware lab at office, now moved to my private lab, Ølstykke. | Arduino
+2015..16 | Lost hardware lab at office, now moved to my private lab, Ølstykke. | Arduino
  | interGATE for Tetra in Libanon | RedPitaya
  | interGATE4 = interGATE but now as an App on iPad = much simple installations, XCode, Swift | RaspberryPi
  | CPH airport is first on new Innovative product range. Did lots of interfaces | WSPR
-2017 | Working halftime on developing cloud solutions, halftime on Classic tasks | Still member of the board. 
- | investigating new scaling for ISM, like MicroServices, Azure, Docker
+2017 | Working halftime on developing cloud solutions, halftime on Classic tasks | Member of the board. 
+ | investigating new scaling for ISM, like MicroServices, Azure, Docker | 
+2018 | SCAIPdmz and DC09dmz, small services on DigitalOcean, Ubuntu, | Try a free drive of [DigitalOcean](https://m.do.co/c/a01c93af1655)
+2019 | |
 
-Generelt har jeg været blandet ind i meget af det opremsede her: http://www.securityworldhotel.com/dk/Leverandorer/innovative-business-software-as-ibs
+Generelt er det meget bits & bytes i mit hoved
 
 *  Christen Fihl
 *  Jellingvej 6
