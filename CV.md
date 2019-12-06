@@ -26,7 +26,7 @@ Year | Commercial | Private, own company
  | Scandis Pascal (Swedish computer), with hw graphics.| Ambra Soft A/S: Projekt "Børsinformation Telecom" (Klaus Riskær Pedersen). Lavet kommunikations driver for journalist systemet, dvs. modtage nyheder fra eksterne bureauer, håndtere køsystem og sende data til on-line kunder i Danmark, sende børskurser til ops modtagere hvert minut. 
  | Inline assembler BASM for Borland Pascal, Delphi 1 og C++. Used up to Delphi 5
 90…	| IBS A/S | 
- | Westinghouse, online handling of 65000 private customers alarm panels.	| Skrevet tekniske artikler til det danske PC-World http://bibliotek.dk/vis.php?field1=lfo&term1=fihl%20christen
+ | Westinghouse, online handling of 65000 private customers alarm panels.	| Skrevet tekniske artikler til det danske PC-World https://bibliotek.dk/da/search/work?search_block_form=%22christen+fihl%22
  | Honeywell, multi protocol concentrator for alarm reception from various equipment.| Produceret egen Pascal oversætter til Amiga og Atari. Solgt for royalties via dansk firma til Maxon Gmbh som Maxon Pascal, og til HiSoft ltd som HighSpeed Pascal.
  | Honeywell, manual pc. Database download to flat files and quick lookup of max 500000 customers data (backup purpose).| Kontrakt job for Borland Inc. Lavet BASM, en 32bits inline assembler for Delphi og C++ produkterne.
  | Securitas AB, datex, X.21
