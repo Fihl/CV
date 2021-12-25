@@ -68,7 +68,7 @@ Year | Commercial | Private, own company
 2018 | SCAIPdmz and DC09dmz, small services on DigitalOcean, Ubuntu, | Try a free drive of [DigitalOcean](https://m.do.co/c/a01c93af1655)
 2019 | |
 2020 | |
-2021 | |
+2021 | | Working QO-100
 2022 | NetDesign, System Arkitekt |
 
 In general, lots of bits & bytes in my head
