@@ -63,13 +63,13 @@ Year | Commercial | Private, own company
  | interGATE for Tetra in Libanon | RedPitaya
  | interGATE4 = interGATE but now as an App on iPad = much simple installations, XCode, Swift | RaspberryPi
  | CPH airport is first on new Innovative product range. Did lots of interfaces | WSPR
-2017 | Working halftime on developing cloud solutions, halftime on Classic tasks | Member of the board. 
+2017 | Working halftime on architecting cloud solutions, halftime on classic tasks | Member of the board. 
  | investigating new scaling for ISM, like MicroServices, Azure, Docker | 
-2018 | SCAIPdmz and DC09dmz, small services on DigitalOcean, Ubuntu, | Try a free drive of [DigitalOcean](https://m.do.co/c/a01c93af1655)
+2018 | small services on DigitalOcean, Ubuntu, | Try a free drive of [DigitalOcean](https://m.do.co/c/a01c93af1655)
 2019 | |
 2020 | |
 2021 | | Working QO-100
-2022 | NetDesign, System Arkitekt |
+2022 | NetDesign, System Arkitekt, 1-1-2 software | 
 
 In general, lots of bits & bytes in my head
 
